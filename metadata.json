@@ -1,5 +1,4 @@
 {
-  "name": "Copy of Veo",
-  "description": "Sample from Veo models to generate videos",
-  "requestFramePermissions": []
+  "name": "Veo",
+  "description": "Sample from Veo models to generate videos"
 }

@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1eJruGAevXMGmaqDk2RUaXlsyVyiyPTBk
+View your app in AI Studio: https://ai.studio/apps/bundled/genai_videos_with_veo
 
 ## Run Locally
 
